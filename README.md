@@ -158,5 +158,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## Author
 
-Your Name - [Rahim47](https://github.com/Rahim47)
+Rahim Sekkouti - [Rahim47](https://github.com/Rahim47)
 
